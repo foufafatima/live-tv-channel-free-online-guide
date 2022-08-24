@@ -14,7 +14,7 @@
 			"unityGameID": "4895371",
 			"UnityPlacement": "Interstitial_Android",
 
-			"StartappAds": "",
+			"StartappAds": "207764545",
 
 			"Cpa": false,
 			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif",
